@@ -11,8 +11,7 @@ pip install -r requirements.txt
 # Train model
 python train_model.py
 
-# Make predictions
-python predict.py
+
 ```
 
 ## Dataset
