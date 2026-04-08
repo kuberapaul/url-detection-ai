@@ -11,6 +11,9 @@ pip install -r requirements.txt
 # Train model
 python train_model.py
 
+#Check prompts used for project/iterations
+PROMPTS_USED.md
+
 
 ```
 
