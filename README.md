@@ -66,3 +66,32 @@ python train_model.py
 ## Tech Stack
 
 pandas • numpy • scikit-learn • matplotlib • seaborn • joblib
+
+
+Software Libraries & Frameworks:
+
+Pedregosa, Fabian, et al. "Scikit-Learn: Machine Learning in Python." Journal of Machine Learning Research, vol. 12, 2011, pp. 2825-2830.
+
+Harris, Charles R., et al. "Array Programming with NumPy." Nature, vol. 585, no. 7825, 2020, pp. 357-362, https://doi.org/10.1038/s41586-020-2649-2.
+
+McKinney, Wes. "Data Structures for Statistical Computing in Python." Proceedings of the 9th Python in Science Conference, 2010, pp. 56-61.
+
+Hunter, John D. "Matplotlib: A 2D Graphics Environment." Computing in Science & Engineering, vol. 9, no. 3, 2007, pp. 90-95, https://doi.org/10.1109/MCSE.2007.55.
+
+Waskom, Michael L. "Seaborn: Statistical Data Visualization." Journal of Open Source Software, vol. 6, no. 60, 2021, p. 3021, https://doi.org/10.21105/joss.03021.
+
+
+Machine Learning Methodologies:
+
+Breiman, Leo. "Classification and Regression Trees." Chapman and Hall, 1984.
+
+Breiman, Leo. "Random Forests." Machine Learning, vol. 45, no. 1, 2001, pp. 5-32, https://doi.org/10.1023/A:1010933404324.
+
+Friedman, Jerome H. "Greedy Function Approximation: A Gradient Boosting Machine." Annals of Statistics, vol. 29, no. 5, 2001, pp. 1189-1232, https://doi.org/10.1214/aos/1013203451.
+
+Fawcett, Tom. "An Introduction to ROC Analysis." Pattern Recognition Letters, vol. 27, no. 8, 2006, pp. 861-874, https://doi.org/10.1016/j.patrec.2005.10.010.
+
+
+
+
+
